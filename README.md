@@ -4,7 +4,12 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+I have treated application flow as below:
+
+user will authenicate using login screen
+after successful login, user can scan QR code, once we read the QR code, user info we can see.
+
+Enabled email and password authenication. Please use: test@gmail.com, password: 12345678
 
 A few resources to get you started if this is your first Flutter project:
 
